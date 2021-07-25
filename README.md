@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React html css redux mongoDb nodejs expressjs**
 
-- 📫 How to reach me **manishnayakpro@gmail.com**
+- 📫 How to reach me **manishnayak.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
